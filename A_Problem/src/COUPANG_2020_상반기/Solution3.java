@@ -1,4 +1,4 @@
-package COUPANG_2020_상반기;
+package Coupang_2020_상반기;
 
 import java.util.LinkedList;
 import java.util.List;

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72d29b37-2a1c-4a99-8469-a2c80d23cf93" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/A_Problem/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/.project" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/COUPANG_2020_상반기/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/COUPANG_2020_상반기/Solution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/COUPANG_2020_상반기/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/COUPANG_2020_상반기/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/COUPANG_2020_상반기/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/COUPANG_2020_상반기/Solution3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/COUPANG_2020_하반기/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/Coupang_2020_하반기/Solution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/COUPANG_2020_하반기/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/Coupang_2020_하반기/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/COUPANG_2020_하반기/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/Coupang_2020_하반기/Solution3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/COUPANG_2020_하반기/Solution4.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/Coupang_2020_하반기/Solution4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/KAKAO_2020_2/sol1.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/Kakao_2021_blind/sol1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/KAKAO_2020_2/sol2.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/Kakao_2021_blind/sol2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/KAKAO_2020_2/sol3.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/Kakao_2021_blind/sol3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/KAKAO_2020_2/sol4.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/Kakao_2021_blind/sol4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/KAKAO_2020_2/sol5.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/Kakao_2021_blind/sol5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/KAKAO_2020_2/sol6.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/Kakao_2021_blind/sol6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/LINE_2020_2/sol1.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/Line_2020_2/sol1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/LINE_2020_2/sol2.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/Line_2020_2/sol2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/LINE_2020_2/sol3.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/Line_2020_2/sol3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/LINE_2020_2/sol4.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/Line_2020_2/sol4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/LINE_2020_2/sol5.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/Line_2020_2/sol5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/LINE_2020_2/sol6.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/Line_2020_2/sol6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/NAVER_2020_2_1/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/NAVER_2020_2_Type1/Solution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/NAVER_2020_2_1/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/NAVER_2020_2_Type1/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/NAVER_2020_2_1/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/NAVER_2020_2_Type1/Solution3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/NAVER_2020_2_2/sol1.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/NAVER_2020_2_Type2/sol1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/NAVER_2020_2_2/sol2.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/NAVER_2020_2_Type2/sol2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/NAVER_2020_2_2/sol3.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/NAVER_2020_2_Type2/sol3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/NAVER_2020_2_2/sol3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/NAVER_2020_2_Type2/sol3_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/NHN/sol1.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/NHN_2020/sol1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/NHN/sol2.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/NHN_2020/sol2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/NHN/sol3.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/NHN_2020/sol3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/Programmers/Solution_지형이동.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/SSAFY/Main_1342_행운의문자열.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/SSAFY/Solution1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/SSAFY/Solution2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/SSAFY/sol1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/SSAFY/sol2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/SSAFY/sol3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/wth/Main_17136_색종이붙이기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/wth/Main_17136_색종이붙이기_재인.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_Problem/src/wth/Solution_D5_7206_숫자게임.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ppEvTgvSeWkTyaZX6KQXClFWln" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72d29b37-2a1c-4a99-8469-a2c80d23cf93" name="Default Changelist" comment="" />
+      <created>1615871863016</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615871863016</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
