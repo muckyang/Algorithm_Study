@@ -5,9 +5,10 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="Algo2020"/>
+	<classpathentry kind="src" path="Algo2020_12"/>
 	<classpathentry kind="src" path="Algo2021_01"/>
 	<classpathentry kind="src" path="Algo2021_02"/>
 	<classpathentry kind="src" path="Algo2021_03"/>
+	<classpathentry kind="src" path="CleanCode2021"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

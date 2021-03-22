@@ -2,50 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72d29b37-2a1c-4a99-8469-a2c80d23cf93" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/A_Problem/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/.project" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/.project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/COUPANG_2020_상반기/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/COUPANG_2020_상반기/Solution1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/COUPANG_2020_상반기/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/COUPANG_2020_상반기/Solution2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/COUPANG_2020_상반기/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/COUPANG_2020_상반기/Solution3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/COUPANG_2020_하반기/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/Coupang_2020_하반기/Solution1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/COUPANG_2020_하반기/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/Coupang_2020_하반기/Solution2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/COUPANG_2020_하반기/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/Coupang_2020_하반기/Solution3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/COUPANG_2020_하반기/Solution4.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/Coupang_2020_하반기/Solution4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/KAKAO_2020_2/sol1.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/Kakao_2021_blind/sol1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/KAKAO_2020_2/sol2.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/Kakao_2021_blind/sol2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/KAKAO_2020_2/sol3.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/Kakao_2021_blind/sol3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/KAKAO_2020_2/sol4.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/Kakao_2021_blind/sol4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/KAKAO_2020_2/sol5.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/Kakao_2021_blind/sol5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/KAKAO_2020_2/sol6.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/Kakao_2021_blind/sol6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/LINE_2020_2/sol1.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/Line_2020_2/sol1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/LINE_2020_2/sol2.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/Line_2020_2/sol2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/LINE_2020_2/sol3.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/Line_2020_2/sol3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/LINE_2020_2/sol4.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/Line_2020_2/sol4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/LINE_2020_2/sol5.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/Line_2020_2/sol5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/LINE_2020_2/sol6.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/Line_2020_2/sol6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/NAVER_2020_2_1/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/NAVER_2020_2_Type1/Solution1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/NAVER_2020_2_1/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/NAVER_2020_2_Type1/Solution2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/NAVER_2020_2_1/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/NAVER_2020_2_Type1/Solution3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/NAVER_2020_2_2/sol1.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/NAVER_2020_2_Type2/sol1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/NAVER_2020_2_2/sol2.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/NAVER_2020_2_Type2/sol2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/NAVER_2020_2_2/sol3.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/NAVER_2020_2_Type2/sol3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/NAVER_2020_2_2/sol3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/NAVER_2020_2_Type2/sol3_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/NHN/sol1.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/NHN_2020/sol1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/NHN/sol2.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/NHN_2020/sol2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/NHN/sol3.java" beforeDir="false" afterPath="$PROJECT_DIR$/A_Problem/src/NHN_2020/sol3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/Programmers/Solution_지형이동.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/SSAFY/Main_1342_행운의문자열.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/SSAFY/Solution1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/SSAFY/Solution2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/SSAFY/sol1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/SSAFY/sol2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/SSAFY/sol3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/wth/Main_17136_색종이붙이기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/wth/Main_17136_색종이붙이기_재인.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_Problem/src/wth/Solution_D5_7206_숫자게임.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week1/Jimlution.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition1/Jimlution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week1/Main_20055_컨베이어벨트위의로봇.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition1/Main_20055_컨베이어벨트위의로봇.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week1/Main_20056_마법사상어와파이어볼.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition1/Main_20056_마법사상어와파이어볼.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week1/Main_20165_인내의도미노장인호석.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition1/Main_20165_인내의도미노장인호석.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week1/Solution_10505_소득불균형.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition1/Solution_10505_소득불균형.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week1/Solution_10570_제곱팰린드롬수.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition1/Solution_10570_제곱팰린드롬수.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week1/Solution_10580_전봇대.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition1/Solution_10580_전봇대.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week1/Solution_10726_이진수표현.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition1/Solution_10726_이진수표현.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week1/Solution_10761_신뢰.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition1/Solution_10761_신뢰.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week1/Solution_2806_N_Queen.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition1/Solution_2806_N_Queen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week1/Solution_9280_진용이네주차타워.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition1/Solution_9280_진용이네주차타워.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week1/Songlution.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition1/Songlution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week2/Main_12865_평범한배낭.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition2/Main_12865_평범한배낭.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week2/Main_20164_홀수홀릭호석.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition2/Main_20164_홀수홀릭호석.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week2/Main_20166_문자열지옥에빠진호석_DP.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition2/Main_20166_문자열지옥에빠진호석_DP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week2/Main_20166_문자열지옥에빠진호석_HASHMAP.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition2/Main_20166_문자열지옥에빠진호석_HASHMAP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week2/Main_20167_꿈틀꿈틀호석애벌레.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition2/Main_20167_꿈틀꿈틀호석애벌레.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week2/Main_20168_골목대장호석.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition2/Main_20168_골목대장호석.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week2/Main_20181_꿈틀꿈틀호석애벌레_효율성.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition2/Main_20181_꿈틀꿈틀호석애벌레_효율성.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week2/Main_20303_할로윈의양아치.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition2/Main_20303_할로윈의양아치.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week2/Main_2156_포도주시식.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition2/Main_2156_포도주시식.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week2/Solution_5644_무선충전.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition2/Solution_5644_무선충전.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week2/Solution_9839_최고의쌍.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition2/Solution_9839_최고의쌍.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week3/Main_10819_차이를최대로.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition3/Main_10819_차이를최대로.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week3/Main_10971_외판원순회2.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition3/Main_10971_외판원순회2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week3/Main_10974_모든순열.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition3/Main_10974_모든순열.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week3/Main_11723_집합.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition3/Main_11723_집합.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week3/Main_1182_부분수열의합.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition3/Main_1182_부분수열의합.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week3/Main_1476_날짜계산.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition3/Main_1476_날짜계산.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week3/Main_14888_연산자끼워넣기.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition3/Main_14888_연산자끼워넣기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week3/Main_15658_연산자끼워넣기2.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition3/Main_15658_연산자끼워넣기2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week3/Main_20057_마법사상어와토네이도.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition3/Main_20057_마법사상어와토네이도.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week3/Main_20157_화살을쏘자.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition3/Main_20157_화살을쏘자.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week3/Main_20293_연료가부족해.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition3/Main_20293_연료가부족해.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week3/Main_2093_일곱난쟁이.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition3/Main_2093_일곱난쟁이.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week3/Main_6603_로또.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition3/Main_6603_로또.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week3/Main_9095_123더하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition3/Main_9095_123더하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week3/Solution_5648_원자소멸시뮬레이션_Hashmap.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition3/Solution_5648_원자소멸시뮬레이션_Hashmap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week3/Solution_5648_원자소멸시뮬레이션_Priority.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition3/Solution_5648_원자소멸시뮬레이션_Priority.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week3/Solution_5648_원자소멸시뮬레이션_Priority2_todo.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2020_12/partition3/Solution_5648_원자소멸시뮬레이션_Priority2_todo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week4/Solution1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week4/Solution2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2020/Algo12_Week4/Solution3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2021_01/todolist/Main_9935_문자열폭발_시간메모리.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2021_03/partition1/Main_09935_문자열폭발.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2021_03/partition1/Main_04358_생태학_Hash.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2021_03/partition1/Main_04358_생태학_Hash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C_Algorithm/Algo2021_03/partition1/Main_04358_생태학_Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/C_Algorithm/Algo2021_03/partition1/Main_04358_생태학_Trie.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +57,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="kvv3d4rz" />
   </component>
   <component name="ProjectId" id="1ppEvTgvSeWkTyaZX6KQXClFWln" />
   <component name="ProjectViewState">
@@ -86,5 +95,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

@@ -5,9 +5,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Iterator;
-
+//295792KB , 688ms
 public class Main_04358_생태학_Trie {
 	static Trie root;
 	static int cnt;

@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
-
+//	90080KB , 612ms
 public class Main_04358_생태학_Hash {
 
 	public static void main(String[] args) throws IOException {
